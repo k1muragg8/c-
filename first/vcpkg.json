@@ -1,0 +1,8 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "dependencies": [
+    "boost"
+  ],
+  "builtin-baseline": "d5ec528843d29e3a52d745a64b469f810b2cedbf"
+}
