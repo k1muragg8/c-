@@ -1,0 +1,1 @@
+. "/home/k1mura/Desktop/c-/con2/build/Release/generators/conanbuildenv-release-x86_64.sh"

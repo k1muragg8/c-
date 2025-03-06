@@ -1,0 +1,3 @@
+/home/k1mura/Desktop/c-/cpu/win-build/CMakeFiles/cpu.dir
+/home/k1mura/Desktop/c-/cpu/win-build/CMakeFiles/edit_cache.dir
+/home/k1mura/Desktop/c-/cpu/win-build/CMakeFiles/rebuild_cache.dir
